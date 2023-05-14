@@ -1,0 +1,15 @@
+C:\SVILUPPO\GIT\ITS\2023\Esercitazione Biblioteca\ConsoleBiblioteca\bin\Debug\net7.0\ConsoleBiblioteca.exe
+C:\SVILUPPO\GIT\ITS\2023\Esercitazione Biblioteca\ConsoleBiblioteca\bin\Debug\net7.0\ConsoleBiblioteca.deps.json
+C:\SVILUPPO\GIT\ITS\2023\Esercitazione Biblioteca\ConsoleBiblioteca\bin\Debug\net7.0\ConsoleBiblioteca.runtimeconfig.json
+C:\SVILUPPO\GIT\ITS\2023\Esercitazione Biblioteca\ConsoleBiblioteca\bin\Debug\net7.0\ConsoleBiblioteca.dll
+C:\SVILUPPO\GIT\ITS\2023\Esercitazione Biblioteca\ConsoleBiblioteca\bin\Debug\net7.0\ConsoleBiblioteca.pdb
+C:\SVILUPPO\GIT\ITS\2023\Esercitazione Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\ConsoleBiblioteca.csproj.AssemblyReference.cache
+C:\SVILUPPO\GIT\ITS\2023\Esercitazione Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\ConsoleBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\SVILUPPO\GIT\ITS\2023\Esercitazione Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\ConsoleBiblioteca.AssemblyInfoInputs.cache
+C:\SVILUPPO\GIT\ITS\2023\Esercitazione Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\ConsoleBiblioteca.AssemblyInfo.cs
+C:\SVILUPPO\GIT\ITS\2023\Esercitazione Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\ConsoleBiblioteca.csproj.CoreCompileInputs.cache
+C:\SVILUPPO\GIT\ITS\2023\Esercitazione Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\ConsoleBiblioteca.dll
+C:\SVILUPPO\GIT\ITS\2023\Esercitazione Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\refint\ConsoleBiblioteca.dll
+C:\SVILUPPO\GIT\ITS\2023\Esercitazione Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\ConsoleBiblioteca.pdb
+C:\SVILUPPO\GIT\ITS\2023\Esercitazione Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\ConsoleBiblioteca.genruntimeconfig.cache
+C:\SVILUPPO\GIT\ITS\2023\Esercitazione Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\ref\ConsoleBiblioteca.dll
