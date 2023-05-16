@@ -11,9 +11,18 @@ Libro libroBellissimo = new Libro("01", "Come insegnare C#", "Bill Gates");
 Console.WriteLine($"{libroBellissimo.Descrizione()} creato");
 
 libroBellissimo.Prestito(utentePrimo);
-libroBellissimo.Prestito(utenteSecondo);
 
-libroBellissimo.Restituzione();
+Utente UtenteTerzo = new Utente("03", "Pippo", "Pippo", 6);
 
-libroBellissimo.Prestito(utenteSecondo);
+libroBellissimo.NewMessage += utenteSecondo.MessageHandler;
+libroBellissimo.NewMessage += UtenteTerzo.MessageHandler;
+
+libroBellissimo.Utente = null;
+
+
+//libroBellissimo.Prestito(utenteSecondo);
+
+//libroBellissimo.Restituzione();
+
+//libroBellissimo.Prestito(utenteSecondo);
 

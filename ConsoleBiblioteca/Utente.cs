@@ -28,4 +28,8 @@ class Utente {
         this.AnnoIscrizione = annoIscrizione;
     }
 
+    public void MessageHandler(){
+        Console.WriteLine("Il libro è stato restituito");
+    }
+
 }

@@ -13,3 +13,18 @@ C:\SVILUPPO\GIT\ITS\2023\Esercitazione Biblioteca\ConsoleBiblioteca\obj\Debug\ne
 C:\SVILUPPO\GIT\ITS\2023\Esercitazione Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\ConsoleBiblioteca.pdb
 C:\SVILUPPO\GIT\ITS\2023\Esercitazione Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\ConsoleBiblioteca.genruntimeconfig.cache
 C:\SVILUPPO\GIT\ITS\2023\Esercitazione Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\ref\ConsoleBiblioteca.dll
+C:\Users\Classroom\Desktop\ITS\Biblioteca\ConsoleBiblioteca\bin\Debug\net7.0\ConsoleBiblioteca.exe
+C:\Users\Classroom\Desktop\ITS\Biblioteca\ConsoleBiblioteca\bin\Debug\net7.0\ConsoleBiblioteca.deps.json
+C:\Users\Classroom\Desktop\ITS\Biblioteca\ConsoleBiblioteca\bin\Debug\net7.0\ConsoleBiblioteca.runtimeconfig.json
+C:\Users\Classroom\Desktop\ITS\Biblioteca\ConsoleBiblioteca\bin\Debug\net7.0\ConsoleBiblioteca.dll
+C:\Users\Classroom\Desktop\ITS\Biblioteca\ConsoleBiblioteca\bin\Debug\net7.0\ConsoleBiblioteca.pdb
+C:\Users\Classroom\Desktop\ITS\Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\ConsoleBiblioteca.csproj.AssemblyReference.cache
+C:\Users\Classroom\Desktop\ITS\Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\ConsoleBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classroom\Desktop\ITS\Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\ConsoleBiblioteca.AssemblyInfoInputs.cache
+C:\Users\Classroom\Desktop\ITS\Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\ConsoleBiblioteca.AssemblyInfo.cs
+C:\Users\Classroom\Desktop\ITS\Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\ConsoleBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Classroom\Desktop\ITS\Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\ConsoleBiblioteca.dll
+C:\Users\Classroom\Desktop\ITS\Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\refint\ConsoleBiblioteca.dll
+C:\Users\Classroom\Desktop\ITS\Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\ConsoleBiblioteca.pdb
+C:\Users\Classroom\Desktop\ITS\Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\ConsoleBiblioteca.genruntimeconfig.cache
+C:\Users\Classroom\Desktop\ITS\Biblioteca\ConsoleBiblioteca\obj\Debug\net7.0\ref\ConsoleBiblioteca.dll

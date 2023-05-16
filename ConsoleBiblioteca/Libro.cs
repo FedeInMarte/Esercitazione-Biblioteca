@@ -3,6 +3,16 @@ class Libro {
     private string titolo;
     private string autore;
     Utente? utente;
+    public Utente Utente {
+        get{return utente;}
+        set{utente=value;
+            if (utente == null){
+                    OnRestituzione();
+                }
+        }
+    }
+    public event Action NewMessage;
+
     public Libro (string id,string titolo,string autore)
     {
         this.id = id;
@@ -28,5 +38,11 @@ class Libro {
     public void Restituzione(){
         this.utente = null;
         Console.WriteLine("Libro restituito");
+    }
+
+    public void OnRestituzione(){
+        if(NewMessage != null){
+            NewMessage();
+        }
     }
 }
