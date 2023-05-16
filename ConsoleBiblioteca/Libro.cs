@@ -3,7 +3,7 @@ class Libro {
     private string titolo;
     private string autore;
     Utente? utente;
-    public Utente Utente {
+    public Utente? Utente {
         get{return utente;}
         set{utente=value;
             if (utente == null){
